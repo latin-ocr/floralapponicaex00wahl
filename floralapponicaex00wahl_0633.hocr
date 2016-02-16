@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floralapponicaex00wahl_0633.png"; bbox 0 0 2194 3893; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 312 3376 552 3437">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 312 3376 552 3437">
+     <span class='ocr_line' id='line_1_1' title="bbox 312 3376 552 3437; baseline -0.113 0"><span class='ocrx_word' id='word_1_1' title='bbox 312 3376 511 3437; x_wconf 43' lang='lat' dir='ltr'><em>lfss&#39;d</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 522 3379 552 3387; x_wconf 56' lang='grc'><em>””</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 259 3443 940 3503">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 259 3443 940 3503">
+     <span class='ocr_line' id='line_1_2' title="bbox 259 3443 940 3503; baseline 0.022 -23"><span class='ocrx_word' id='word_1_3' title='bbox 259 3447 591 3503; x_wconf 51' lang='lat' dir='ltr'><em>÷-st572534s</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 615 3443 940 3497; x_wconf 54' lang='lat' dir='ltr'><em>arcuada.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1040 3411 1696 3494">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1040 3390 1777 3494">
+     <span class='ocr_line' id='line_1_3' title="bbox 1040 3411 1696 3494; baseline 0.02 -16"><span class='ocrx_word' id='word_1_5' title='bbox 1040 3415 1287 3494; x_wconf 51' lang='grc' dir='ltr'><em>Αἶγα</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1336 3411 1696 3492; x_wconf 60' lang='lat' dir='ltr'><em>beffizzha</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 180 252 2039 3398">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 180 252 2039 3398">
+     <span class='ocr_line' id='line_1_4' title="bbox 180 252 2039 3398; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 180 252 2039 3398; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
